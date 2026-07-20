@@ -138,14 +138,11 @@ asos-stockout-analysis/
 
 ## 📷 Dashboard
 
-🚧 **Power BI dashboard coming soon.**
-
 The dashboard will include:
 
 - Revenue at Risk KPI
 - Stockout Rate KPI
 - Brand Performance Analysis
-- Interactive Filters
 - Executive Summary Dashboard
 
 ---
